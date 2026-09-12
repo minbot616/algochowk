@@ -154,37 +154,6 @@ AlgoChowk/
 
 ---
 
-## Running Locally
-
-### Prerequisites
-- Node.js 18+ installed
-
-### 1. Install Dependencies
-```bash
-npm install
-```
-
-### 2. Configure Environment Variables (Optional)
-Create a `.env.local` file in the root directory:
-```env
-GEMINI_API_KEY=your_gemini_api_key_here
-```
-*(If omitted, the application automatically uses the built-in deterministic fallback engine).*
-
-### 3. Run Development Server
-```bash
-npm run dev
-```
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-### 4. Build for Production
-```bash
-npm run build
-npm start
-```
-
----
-
 ## Prototype Limitations
 
 - **Local Dataset Window**: Backtesting is evaluated over 10 years of NIFTY 50 daily spot data; intraday granularities or multi-asset feeds are not included in this prototype.
