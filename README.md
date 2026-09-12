@@ -1,6 +1,6 @@
 # AlgoChowk
 
-**AlgoChowk** is a functional research prototype designed to turn vague, natural-language trading questions into explicit, reproducible experiments. Built for the *AlgoChowk AI Full-Stack Developer Intern — Option 2 Thinking & Building Challenge*, the application guides users through a structured 5-stage workflow: **ASK → CLARIFY → DEFINE → TEST → LEARN**.
+**AlgoChowk** is a functional research prototype designed to turn vague, natural-language trading questions into explicit, reproducible experiments. The application guides users through a structured 5-stage workflow: **ASK → CLARIFY → DEFINE → TEST → LEARN**.
 
 The studio enforces a strict separation between ambiguous user intent, structured experiment specifications, deterministic backtest calculations, and AI-assisted qualitative interpretation.
 
@@ -198,15 +198,4 @@ npm start
 
 > *"Build less. Think more."*
 
-The purpose of AlgoChowk is not to build complex trading infrastructure, but to demonstrate clear product thinking: making user ambiguity explicit, formalizing reproducible experiments, separating factual evidence from interpretation, and suggesting logical follow-up questions.
-
----
-
-## Assignment Context
-
-This repository was created for the **AlgoChowk AI Full-Stack Developer Intern — Option 2 Thinking & Building Challenge**.
-
-### Submission Links
-- **Live Demo**: `[Insert Live Demo URL]`
-- **GitHub Repository**: `[Insert GitHub Repository URL]`
-- **Demo Video**: `[Insert Demo Video URL]`
+AlgoChowk focuses on making ambiguity explicit, turning vague research questions into reproducible experiments, separating empirical evidence from interpretation, and helping users identify logical next questions.
